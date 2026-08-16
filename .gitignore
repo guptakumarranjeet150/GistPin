@@ -16,11 +16,10 @@ cilium-linux-amd64.tar.gz.sha256sum
 cilium
 
 # Environment
-.env
-.env.local
 
 # OS / editor
 .DS_Store
 
 # Dependency health check reports (generated locally/in CI, not committed)
 infrastructure/ci/reports/
+config.bat
