@@ -16,8 +16,6 @@ cilium-linux-amd64.tar.gz.sha256sum
 cilium
 
 # Environment
-.env
-.env.local
 
 # OS / editor
 .DS_Store
@@ -27,3 +25,4 @@ infrastructure/ci/reports/
 
 # Claude Code local config (settings, launch configs)
 .claude/
+config.bat
